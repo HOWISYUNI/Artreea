@@ -1,0 +1,1 @@
+/etc/init.d/nginx start & uwsgi --socket /tmp/mysite.sock --module Artreea.wsgi --chmod-socket=666
