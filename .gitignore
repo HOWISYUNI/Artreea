@@ -3,6 +3,7 @@
 __pycache__
 db.sqlite3
 secrets.json
-.vscode/*
+.vscode
 userinfo.json
+my_settings.py
 # Unmeaningful comment
